@@ -1,0 +1,7 @@
+.footer {
+    width: 100%;
+    @include dflex_center($footer-height);
+    span {
+        margin: 0 auto;
+    }
+}
